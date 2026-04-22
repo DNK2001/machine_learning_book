@@ -25,3 +25,8 @@
 ## Обучение без учителя
 
 * [13. Кластеризация. K-Means и DBSCAN](13.-klasterizaciya.md)
+* [14. Снижение размерности. PCA, t-SNE и UMAP](14.-snizhenie-razmernosti.md)
+
+## Практические задачи бизнеса
+
+* [15. Рекомендательные системы](15.-rekomendatelnye-sistemy.md)
