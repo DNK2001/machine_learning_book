@@ -21,3 +21,7 @@
 * [10. Деревья решений. Наводим порядок в хаосе](10.-derevya-resheniy.md)
 * [11. Случайный лес. Мудрость толпы](11.-sluchainyi-les.md)
 * [12. Gradient Boosting. XGBoost, LightGBM, CatBoost](12.-gradient-boosting.md)
+
+## Обучение без учителя
+
+* [13. Кластеризация. K-Means и DBSCAN](13.-klasterizaciya.md)
