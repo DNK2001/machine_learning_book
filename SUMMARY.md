@@ -19,7 +19,7 @@
 
 * [9. Логистическая регрессия. От чисел к вероятностям](9.-logisticheskaya-regressiya.md)
 * [10. Деревья решений. Наводим порядок в хаосе](10.-derevya-resheniy.md)
-* [11. Случайный лес.](11.-sluchainyi-les.md)
+* [11. Случайный лес](11.-sluchainyi-les.md)
 * [12. Gradient Boosting. XGBoost, LightGBM, CatBoost](12.-gradient-boosting.md)
 
 ## Обучение без учителя
