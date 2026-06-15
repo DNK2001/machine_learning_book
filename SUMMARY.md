@@ -26,3 +26,7 @@
 
 * [13. Кластеризация. K-Means и DBSCAN](13.-klasterizaciya.md)
 * [14. Снижение размерности. PCA, t-SNE и UMAP](14.-snizhenie-razmernosti.md)
+
+## Практика
+
+* [Практические ноутбуки](notebooks/README.md)
